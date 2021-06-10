@@ -10,3 +10,11 @@ advantageonlineshopping project
   b) add product to cart
   c) verify on order summary page
   d) verify on order shopping cart page
+  
+6) Framework designing Details:
+  a) I have used page object model
+  b) testNG framework
+  c) extent report
+  d) java as programming language
+  e) Data driven framework
+
