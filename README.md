@@ -18,3 +18,4 @@ advantageonlineshopping project
   d) java as programming language
   e) Data driven framework
 
+7) please run the suite file in this location: \src\test\resources\testsuites\ui\ADV_Web_UI-SuiteSmoke.xml
